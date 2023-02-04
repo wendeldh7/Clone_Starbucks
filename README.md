@@ -14,4 +14,3 @@ The project is still under development and future updates will focus on the foll
 
 Wendel Gomes
 
-[⬆ Voltar ao topo](#Starbucks web site)
